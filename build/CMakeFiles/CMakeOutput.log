@@ -1,0 +1,143 @@
+The system is: Linux - 5.10.16.3-microsoft-standard-WSL2 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/gcc-12 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/gcc-12 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/gcc-12 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+0
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/gcc-12 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+0
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/gcc-12 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/gcc-12 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/gcc-12 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+0
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/gcc-12 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+0
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/g++-12 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/g++-12 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/g++-12 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+0
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/g++-12 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/g++-12 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/g++-12 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+0
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /mnt/c/users/gorsk/onedrive/documents/buda/[semVI]PR/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_79557 && [1/2] Building C object CMakeFiles/cmTC_79557.dir/CMakeCCompilerABI.c.o
+[2/2] Linking C executable cmTC_79557
+
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /mnt/c/users/gorsk/onedrive/documents/buda/[semVI]PR/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/ninja cmTC_03e16 && [1/2] Building CXX object CMakeFiles/cmTC_03e16.dir/CMakeCXXCompilerABI.cpp.o
+[2/2] Linking CXX executable cmTC_03e16
+
+
+

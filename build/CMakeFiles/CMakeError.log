@@ -1,0 +1,144 @@
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/mnt/c/users/gorsk/onedrive/documents/buda/[semVI]PR/build/CMakeFiles/3.22.1/CompilerIdC".
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/mnt/c/users/gorsk/onedrive/documents/buda/[semVI]PR/build/CMakeFiles/3.22.1/CompilerIdC".
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-12 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/mnt/c/users/gorsk/onedrive/documents/buda/[semVI]PR/build/CMakeFiles/3.22.1/CompilerIdC".
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-12 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc-12: warning: ‘-mcpu=’ is deprecated; use ‘-mtune=’ or ‘-march=’ instead
+gcc-12: error: unrecognized command-line option ‘--target=arm-arm-none-eabi’
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/mnt/c/users/gorsk/onedrive/documents/buda/[semVI]PR/build/CMakeFiles/3.22.1/CompilerIdC".
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/mnt/c/users/gorsk/onedrive/documents/buda/[semVI]PR/build/CMakeFiles/3.22.1/CompilerIdC".
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/mnt/c/users/gorsk/onedrive/documents/buda/[semVI]PR/build/CMakeFiles/3.22.1/CompilerIdC".
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-12 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+<command-line>: error: missing '(' after predicate
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/mnt/c/users/gorsk/onedrive/documents/buda/[semVI]PR/build/CMakeFiles/3.22.1/CompilerIdC".
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-12 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc-12: warning: ‘-mcpu=’ is deprecated; use ‘-mtune=’ or ‘-march=’ instead
+gcc-12: error: unrecognized command-line option ‘--target=arm-arm-none-eabi’
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" did not produce an executable in "/mnt/c/users/gorsk/onedrive/documents/buda/[semVI]PR/build/CMakeFiles/3.22.1/CompilerIdC".
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc-12: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc-12: fatal error: no input files
+compilation terminated.
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" did not produce an executable in "/mnt/c/users/gorsk/onedrive/documents/buda/[semVI]PR/build/CMakeFiles/3.22.1/CompilerIdCXX".
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" did not produce an executable in "/mnt/c/users/gorsk/onedrive/documents/buda/[semVI]PR/build/CMakeFiles/3.22.1/CompilerIdCXX".
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++-12 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++-12: error: unrecognized command-line option ‘--c++’
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++-12 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++-12: error: unrecognized command-line option ‘--ec++’; did you mean ‘-Weffc++’?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++-12 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++-12: warning: ‘-mcpu=’ is deprecated; use ‘-mtune=’ or ‘-march=’ instead
+g++-12: error: unrecognized command-line option ‘--target=arm-arm-none-eabi’
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" did not produce an executable in "/mnt/c/users/gorsk/onedrive/documents/buda/[semVI]PR/build/CMakeFiles/3.22.1/CompilerIdCXX".
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" did not produce an executable in "/mnt/c/users/gorsk/onedrive/documents/buda/[semVI]PR/build/CMakeFiles/3.22.1/CompilerIdCXX".
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" did not produce an executable in "/mnt/c/users/gorsk/onedrive/documents/buda/[semVI]PR/build/CMakeFiles/3.22.1/CompilerIdCXX".
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++-12 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++-12: error: unrecognized command-line option ‘--c++’
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++-12 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++-12: error: unrecognized command-line option ‘--ec++’; did you mean ‘-Weffc++’?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++-12 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++-12: warning: ‘-mcpu=’ is deprecated; use ‘-mtune=’ or ‘-march=’ instead
+g++-12: error: unrecognized command-line option ‘--target=arm-arm-none-eabi’
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" did not produce an executable in "/mnt/c/users/gorsk/onedrive/documents/buda/[semVI]PR/build/CMakeFiles/3.22.1/CompilerIdCXX".
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++-12: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++-12: fatal error: no input files
+compilation terminated.
