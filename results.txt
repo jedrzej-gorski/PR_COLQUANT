@@ -1,0 +1,242 @@
+--16 16--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	3m16.179s
+user	3m15.958s
+sys	0m0.232s
+--16 32--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	3m4.142s
+user	3m3.831s
+sys	0m0.256s
+--16 64--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	1m43.409s
+user	1m43.161s
+sys	0m0.236s
+--16 128--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	1m4.941s
+user	1m4.758s
+sys	0m0.192s
+--16 256--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	0m45.777s
+user	0m45.569s
+sys	0m0.196s
+--16 512--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	0m36.131s
+user	0m35.908s
+sys	0m0.216s
+--16 1024--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	0m31.957s
+user	0m31.734s
+sys	0m0.192s
+--32 16--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	3m55.249s
+user	3m54.926s
+sys	0m0.272s
+--32 32--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	3m41.165s
+user	3m40.880s
+sys	0m0.252s
+--32 64--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	2m4.002s
+user	2m3.787s
+sys	0m0.224s
+--32 128--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	1m18.744s
+user	1m18.526s
+sys	0m0.232s
+--32 256--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	0m56.240s
+user	0m55.977s
+sys	0m0.272s
+--32 512--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	0m45.133s
+user	0m44.910s
+sys	0m0.220s
+--32 1024--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	0m40.389s
+user	0m40.191s
+sys	0m0.200s
+--64 16--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	4m49.615s
+user	4m49.349s
+sys	0m0.324s
+--64 32--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	4m28.354s
+user	4m28.096s
+sys	0m0.244s
+--64 64--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	2m33.293s
+user	2m33.007s
+sys	0m0.308s
+--64 128--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	1m38.453s
+user	1m38.155s
+sys	0m0.296s
+--64 256--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	1m11.734s
+user	1m11.426s
+sys	0m0.288s
+--64 512--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	0m58.766s
+user	0m58.489s
+sys	0m0.260s
+--64 1024--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	0m53.551s
+user	0m53.302s
+sys	0m0.252s
+--128 16--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	5m24.369s
+user	5m23.909s
+sys	0m0.376s
+--128 32--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	5m1.252s
+user	5m0.811s
+sys	0m0.364s
+--128 64--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	2m54.646s
+user	2m54.325s
+sys	0m0.352s
+--128 128--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	1m56.243s
+user	1m55.841s
+sys	0m0.372s
+--128 256--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	1m27.665s
+user	1m27.302s
+sys	0m0.336s
+--128 512--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	1m14.266s
+user	1m13.935s
+sys	0m0.340s
+--128 1024--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	1m8.699s
+user	1m8.408s
+sys	0m0.296s
+--sequential 16--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	0m4.016s
+user	0m3.837s
+sys	0m0.176s
+--sequential 32--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	0m6.571s
+user	0m6.389s
+sys	0m0.180s
+--sequential 64--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	0m11.424s
+user	0m11.194s
+sys	0m0.224s
+--sequential 128--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	0m20.533s
+user	0m20.261s
+sys	0m0.268s
+
+--sequential 16--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	0m4.029s
+user	0m3.825s
+sys	0m0.200s
+--sequential 32--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB
+
+real	0m6.528s
+user	0m6.326s
+sys	0m0.200s
+--sequential 64--
+libpng warning: iCCP: known incorrect sRGB profile
+libpng warning: iCCP: cHRM chunk does not match sRGB

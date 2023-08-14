@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/c/users/gorsk/onedrive/documents/buda/[semVI]PR
+# Install script for directory: /home/ubuntu/pr
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/mnt/c/users/gorsk/onedrive/documents/buda/[semVI]PR/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/ubuntu/pr/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -5,17 +5,23 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "CUDA C++: Launch",
+            "type": "cuda-gdb",
+            "request": "launch",
+            "program": "${workspaceFolder}/color_quantization",
+            "stopAtEntry": false,
+        },
+        {
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/sequential",
-            "args": ["cassa.png", "cassa_new.png"],
+            "program": "${workspaceFolder}/color_quantization",
             "stopAtEntry": false,
-            "preLaunchTask": "C/C++: gcc-12 build active file",
             "cwd": "${fileDirname}",
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",
+            "miDebuggerPath": "/usr/bin/gdb",
             "setupCommands": [
                 {
                     "description": "Enable pretty-printing for gdb",

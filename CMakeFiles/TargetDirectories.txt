@@ -1,0 +1,3 @@
+/home/ubuntu/pr/CMakeFiles/color_quantization.dir
+/home/ubuntu/pr/CMakeFiles/edit_cache.dir
+/home/ubuntu/pr/CMakeFiles/rebuild_cache.dir
