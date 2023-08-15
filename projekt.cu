@@ -275,9 +275,6 @@ color *OMPPaletteGeneration(png_bytep* image_pointers, int height, int width) {
                 chosenChannel = BLUE;
             }
         }
-        color* controlBucket = (color*)malloc(sizeof(color) * bucketLengths[chosenBucket]);
-        memcpy(controlBucket, pixelBuckets[chosenBucket], bucketLengths[chosenBucket] * sizeof(color));
-        sequentialSortBucket(chosenChannel, controlBucket, bucketLengths[chosenBucket]);
         
         dim3 numBlocks(blocks);
         dim3 threadsPerBlock(threads);
